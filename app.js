@@ -89,7 +89,7 @@ app.use((error, req, res, next) => {
 
 mongoose
   .connect(
-    'mongodb+srv://dev:WxyDj338mfzcYz7n@cluster0.1ew7o.mongodb.net/messages?retryWrites=true&w=majority'
+    'mongodb+srv://dev:WxyDj33mjdfYz7n@cluster0.1ew7o.mongodb.net/messages?retryWrites=true&w=majority'
   )
   .then(result => {
     app.listen(process.env.PORT || 8080);
