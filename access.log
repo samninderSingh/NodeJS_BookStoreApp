@@ -1,1 +1,2 @@
 ::1 - - [27/Nov/2020:19:05:27 +0000] "GET /graphql HTTP/1.1" 400 114 "-" "PostmanRuntime/7.26.8"
+::1 - - [10/Dec/2020:01:23:46 +0000] "POST /graphql HTTP/1.1" 500 66 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
